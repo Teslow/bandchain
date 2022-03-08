@@ -1,4 +1,4 @@
-FROM golang:1.13.5-buster
+FROM golang:1.17.7-buster
 
 WORKDIR /go-owasm
 COPY go-owasm/. /go-owasm
