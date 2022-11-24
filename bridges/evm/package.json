@@ -17,7 +17,7 @@
     "chai": "^4.2.0",
     "openzeppelin-solidity": "^3.1.0",
     "openzeppelin-test-helpers": "^0.5.1",
-    "truffle": "^5.1.33",
+    "truffle": "^5.6.7",
     "truffle-flattener": "^1.4.4"
   },
   "prettier": {
