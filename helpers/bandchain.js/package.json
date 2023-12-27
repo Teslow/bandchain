@@ -30,7 +30,7 @@
   "dependencies": {
     "@bandprotocol/obi.js": "^1.0.5",
     "@cosmostation/cosmosjs": "0.5.8",
-    "axios": "0.19.2",
+    "axios": "1.6.3",
     "delay": "4.3.0"
   },
   "prettier": {
