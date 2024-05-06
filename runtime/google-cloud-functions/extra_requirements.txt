@@ -10,3 +10,4 @@ pluggy==0.13.1
 py==1.8.1
 pyparsing==2.4.7
 pytest==5.4.3
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
