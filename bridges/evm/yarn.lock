@@ -311,6 +311,11 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.6.0.tgz#3c7c9c46e678feefe7a2e5bb609d3dbd665ffb3f"
   integrity sha512-t09vSN3MdfsyCHoFcTRCH/iUtG7OJ0CsjzB8cjAmKc/va/kIgeDI/TxsigdncE/4be734m0cvIYwNaV4i2XqAw==
 
+"@snyk/protect@^1.1292.4":
+  version "1.1292.4"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1292.4.tgz#ee88f2dd7399a837df0ae263d7c7e7bbe7ae0a4f"
+  integrity sha512-13ZSAV6fBIx/DtM4WyN/aeWaWQO8vV7RoSXxLefZ4V4oUBZ+LfsR2VdCM2Qo8aQaUK7/YlBgZo8To8MEn9Iocg==
+
 "@solidity-parser/parser@^0.6.0":
   version "0.6.2"
   resolved "https://registry.npmjs.org/@solidity-parser/parser/-/parser-0.6.2.tgz#49707fc4e06649d39d6b25bdab2e9093d372ce50"
