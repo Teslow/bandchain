@@ -16,7 +16,7 @@ coverage==5.2.1
 dacite==1.5.1
 docutils==0.16
 ecdsa==0.15
-idna==2.10
+idna==3.7
 importlib-metadata==1.7.0
 iniconfig==1.0.1
 keyring==21.2.1
