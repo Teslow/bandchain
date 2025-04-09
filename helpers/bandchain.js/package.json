@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@bandprotocol/obi.js": "^1.0.5",
-    "@cosmostation/cosmosjs": "0.5.8",
+    "@cosmostation/cosmosjs": "0.11.0",
     "axios": "0.19.2",
     "delay": "4.3.0"
   },
